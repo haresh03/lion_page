@@ -1,0 +1,28 @@
+div{
+    width: 300px;
+    text-align: justify;
+    padding: 1em;
+    border-style: outset;
+    box-shadow: 3em;
+    
+}
+.fact{
+    font-style:italic;
+    
+}
+span{
+    font-weight: bold;
+}
+ul{
+    list-style-type: none;
+    text-emphasis: none;
+    text-align: left;
+    padding: 0em;
+}
+.detail{
+    padding: 0.5em;
+    box-shadow: 1em;
+    width: auto;
+    height: auto;
+    
+}
